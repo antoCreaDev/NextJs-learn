@@ -1,0 +1,9 @@
+/* lier au composant navbar */
+.nav {
+	width: 100vw;
+	height: 10vh;
+	background-color: darkslategrey;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
